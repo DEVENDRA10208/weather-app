@@ -75,7 +75,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h2 style={styles.title}>10-Day Weather Forecast • 10 రోజుల వాతావరణం</h2>
+      <h2 style={styles.title}>7-Day Weather Forecast • 7 రోజుల వాతావరణం</h2>
       
       <form onSubmit={handleSubmit} style={styles.form}>
         <input
